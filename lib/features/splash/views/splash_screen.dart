@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:food/features/splash/get_started.dart';
+import 'package:food/features/splash/views/get_started.dart';
 import 'package:lottie/lottie.dart';
 
 class SplashScreen extends StatefulWidget {

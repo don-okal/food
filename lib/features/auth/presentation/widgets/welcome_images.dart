@@ -17,7 +17,7 @@ class WelcomeImages extends StatelessWidget {
           children: [
             Positioned(
               left: 160.w,
-              top: 70.h,
+              top: 80.h,
               child: Image.asset(
                 AssetsData.boy,
                 width: 200.w,

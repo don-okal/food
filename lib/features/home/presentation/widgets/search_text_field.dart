@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:food/features/home/presentation/search_view.dart';
+import 'package:food/features/home/presentation/views/search_view.dart';
 import 'package:food/generated/l10n.dart';
 import 'package:get/get.dart';
 

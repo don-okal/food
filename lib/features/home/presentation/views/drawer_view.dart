@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:food/features/home/presentation/orders_view.dart';
+import 'package:food/core/utils/styles.dart';
+import 'package:food/features/home/presentation/views/orders_view.dart';
 import 'package:food/generated/l10n.dart';
-import 'package:food/utils/styles.dart';
 import 'package:get/get.dart';
 
 class DrawerView extends StatelessWidget {

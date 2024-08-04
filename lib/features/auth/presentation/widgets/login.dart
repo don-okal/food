@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:food/core/utils/constant.dart';
+import 'package:food/core/utils/styles.dart';
+import 'package:food/core/widgets/custom_button.dart';
 import 'package:food/features/auth/presentation/widgets/custom_text_field.dart';
-import 'package:food/features/home/presentation/home_view.dart';
+import 'package:food/features/home/presentation/views/home_view.dart';
 import 'package:food/generated/l10n.dart';
-import 'package:food/utils/constant.dart';
-import 'package:food/utils/styles.dart';
-import 'package:food/widgets/custom_button.dart';
 import 'package:get/get.dart';
 
 class Login extends StatelessWidget {

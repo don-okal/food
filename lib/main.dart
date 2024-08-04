@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:food/features/auth/presentation/auth.dart';
-import 'package:food/features/splash/splash_screen.dart';
+import 'package:food/core/utils/constant.dart';
+import 'package:food/features/auth/presentation/views/auth.dart';
+import 'package:food/features/splash/views/splash_screen.dart';
 import 'package:food/generated/l10n.dart';
-import 'package:food/utils/constant.dart';
 import 'package:get/get.dart';
 
 void main() {

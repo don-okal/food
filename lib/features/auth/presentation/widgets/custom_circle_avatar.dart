@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:food/utils/assets.dart';
+import 'package:food/core/utils/assets.dart';
 
 class CustomCircleAvatar extends StatelessWidget {
   const CustomCircleAvatar({

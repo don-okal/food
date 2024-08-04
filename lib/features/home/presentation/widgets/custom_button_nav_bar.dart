@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:food/features/home/presentation/history_view.dart';
-import 'package:food/features/home/presentation/my_profile_view.dart';
-import 'package:food/utils/constant.dart';
+import 'package:food/core/utils/constant.dart';
+import 'package:food/features/home/presentation/views/history_view.dart';
+import 'package:food/features/home/presentation/views/my_profile_view.dart';
 import 'package:get/get.dart';
 
 class CustomButtonNavBar extends StatelessWidget {

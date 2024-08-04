@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:food/utils/constant.dart';
+import 'package:food/core/utils/constant.dart';
 
 class CustomTab extends StatelessWidget {
   const CustomTab({

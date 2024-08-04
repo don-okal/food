@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:food/utils/constant.dart';
-import 'package:food/utils/styles.dart';
+import 'package:food/core/utils/constant.dart';
+import 'package:food/core/utils/styles.dart';
 
 class CustomButton extends StatelessWidget {
   const CustomButton(

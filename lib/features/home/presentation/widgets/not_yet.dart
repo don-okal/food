@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
+import 'package:food/core/utils/styles.dart';
+import 'package:food/core/widgets/custom_button.dart';
 import 'package:food/features/home/presentation/widgets/pages_app_bar.dart';
 import 'package:food/generated/l10n.dart';
-import 'package:food/utils/styles.dart';
-import 'package:food/widgets/custom_button.dart';
 import 'package:get/get.dart';
 
 class NoYet extends StatelessWidget {

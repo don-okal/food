@@ -1,4 +1,4 @@
-import 'package:food/features/splash/splash_screen.dart';
+import 'package:food/features/splash/views/splash_screen.dart';
 import 'package:go_router/go_router.dart';
 
 abstract class AppRouter {

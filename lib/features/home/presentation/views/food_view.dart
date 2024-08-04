@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:food/core/utils/constant.dart';
+import 'package:food/core/widgets/custom_button.dart';
 import 'package:food/features/home/presentation/widgets/custom_app_bar.dart';
 import 'package:food/features/home/presentation/widgets/custom_scroll_view.dart';
 import 'package:food/features/home/presentation/widgets/favourite_icon.dart';
 import 'package:food/features/home/presentation/widgets/food_view_body.dart';
 import 'package:food/generated/l10n.dart';
-import 'package:food/utils/constant.dart';
-import 'package:food/widgets/custom_button.dart';
 import 'package:get/get.dart';
 
 class FoodView extends GetView<PageController> {

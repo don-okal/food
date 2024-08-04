@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:food/core/utils/styles.dart';
+import 'package:food/core/widgets/custom_button.dart';
 import 'package:food/features/home/presentation/widgets/information_item.dart';
 import 'package:food/features/home/presentation/widgets/pages_app_bar.dart';
 import 'package:food/features/home/presentation/widgets/payment_method.dart';
 import 'package:food/generated/l10n.dart';
-import 'package:food/utils/styles.dart';
-import 'package:food/widgets/custom_button.dart';
 
 class MyProfileView extends StatelessWidget {
   const MyProfileView({super.key});

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:food/core/utils/styles.dart';
 import 'package:food/features/auth/presentation/widgets/custom_circle_avatar.dart';
 import 'package:food/generated/l10n.dart';
-import 'package:food/utils/styles.dart';
 
 class FoodForEveryOne extends StatelessWidget {
   const FoodForEveryOne({

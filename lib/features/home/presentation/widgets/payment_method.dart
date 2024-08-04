@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:food/core/utils/constant.dart';
 import 'package:food/features/home/presentation/widgets/payment_method_title.dart';
 import 'package:food/generated/l10n.dart';
-import 'package:food/utils/constant.dart';
 
 class PaymentMethod extends StatefulWidget {
   const PaymentMethod({super.key});

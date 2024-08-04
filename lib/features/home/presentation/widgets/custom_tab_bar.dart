@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:food/core/utils/constant.dart';
 import 'package:food/features/home/presentation/widgets/custom_tab.dart';
 import 'package:food/generated/l10n.dart';
-import 'package:food/utils/constant.dart';
 
 class CustomTabBar extends StatelessWidget {
   const CustomTabBar({

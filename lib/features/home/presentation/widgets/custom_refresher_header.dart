@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:food/utils/constant.dart';
+import 'package:food/core/utils/constant.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 
 class CustomRefreshHeader extends StatelessWidget {

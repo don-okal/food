@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:food/features/auth/presentation/auth.dart';
+import 'package:food/core/utils/constant.dart';
+import 'package:food/core/widgets/custom_button.dart';
+import 'package:food/features/auth/presentation/views/auth.dart';
 import 'package:food/features/auth/presentation/widgets/food_for_every_one.dart';
 import 'package:food/generated/l10n.dart';
-import 'package:food/utils/constant.dart';
-import 'package:food/widgets/custom_button.dart';
 import 'package:get/get.dart';
 
 class GetStarted extends StatelessWidget {
